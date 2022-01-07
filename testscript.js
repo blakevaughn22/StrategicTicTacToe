@@ -1,3 +1,5 @@
+// Author: Blake Vaughn
+
 const statusDisplay = document.querySelector('.game--status');
 
 let gameActive = false;
