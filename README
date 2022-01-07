@@ -1,1 +1,17 @@
-This is the README for strategic tic tac toe
+Welcome to strategic tic tac toe!!!
+
+How to play:
+
+The idea of the game is similar to normal tic tac toe, but to win, you must win 3 boards in a row,
+column or diagonally. Each board behaves the same way normal tic tac toe does, with 3 squares in 
+a row, column, or diagonal, winning. When a board is won, it changes color based upon which player won;
+if player X wins, it will turn red, and if player O wins, it will turn blue. If a board is drawn, it 
+will turn green. 
+
+When a sqaure is played, the next board that will be enabled will be the same relative position as the
+square to the board it was played on. For example, if you played the top-right square in the middle board
+as your first move, the next board that will be played will be the top-right board. If the next board 
+that should be enabled is a board that has been won or drawn, it will enable all other non-finished boards
+to be played on the next turm
+
+To start the game, click the start button. To restart the game, click the restart button.
